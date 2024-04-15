@@ -1,0 +1,9 @@
+
+¦
+java:S4165,"cRemove this useless assignment; "price" already holds the assigned value along all execution paths.(£»®æ8ä†Çî1J$b27ffc70-049f-4396-88dd-2e369e4ed3f0
+«
+java:S4165&"hRemove this useless assignment; "categoryId" already holds the assigned value along all execution paths.(Ö¥ÙÆ8ä†Çî1J$9e44a383-250c-413e-9ddd-ae18e42b304c
+r
+java:S1656,"/Remove or correct this useless self-assignment.(£»®æ8î†Çî1J$9d1f60f8-aa50-4221-a5fb-b220796ff9d8
+r
+java:S1656&"/Remove or correct this useless self-assignment.(Ö¥ÙÆ8ì†Çî1J$49cd8699-ec1f-4c5f-99e0-3a2c33bc4b78

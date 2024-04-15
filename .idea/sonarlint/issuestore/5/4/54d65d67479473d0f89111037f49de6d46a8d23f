@@ -1,0 +1,30 @@
+
+²
+java:S1319"jThe type of "categories" should be an interface such as "List" rather than the implementation "ArrayList".(™σκόÿÿÿÿ8ιν©αξ1J$33c36967-260b-498f-871f-c15a964ed141
+«
+java:S1319&"hThe type of "products" should be an interface such as "List" rather than the implementation "ArrayList".(ι¬«“8ιν©αξ1J$5632e498-ae4c-4a01-89aa-ebdab30b751f
+±
+java:S1319/"iThe type of "employees" should be an interface such as "List" rather than the implementation "ArrayList".(ψΠθύÿÿÿÿ8ιν©αξ1J$e800a332-46ee-414d-bf90-b1aa8bc7a84b
+©
+java:S13199"fThe type of "orders" should be an interface such as "List" rather than the implementation "ArrayList".(ϊΩΨ©8ιν©αξ1J$3cc3b45d-e9f2-4a30-a020-3db927a20441
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Β¦Π8λν©αξ1J$bad6563b-376a-4038-83e0-a69a0877cf84
+~
+java:S1854"6Remove this useless assignment to local variable "db".(ΨΖΉΓόÿÿÿÿ8πν©αξ1J$b65247e7-9758-4dd8-9db1-de45b1c509e9
+o
+java:S1481"'Remove this unused "db" local variable.(ΨΖΉΓόÿÿÿÿ8ςν©αξ1J$2ef41119-549f-4bab-b913-9edc061de752
+r	java:S106"+Replace this use of System.out by a logger.(ό“ϋΦψÿÿÿÿ8υν©αξ1J$af43dfd7-0acb-43cc-ac67-3047d9ffc217
+r	java:S106"+Replace this use of System.out by a logger.(ΐΙ΄ϋÿÿÿÿ8υν©αξ1J$63ddda82-4a7f-4686-ae5d-65b7e78cf51d
+m	java:S106 "+Replace this use of System.out by a logger.(Π—Νθ8υν©αξ1J$20d6c6da-4470-42e5-9ea4-c98b6e6f54e2
+r	java:S106""+Replace this use of System.out by a logger.(χΫ΅Ψψÿÿÿÿ8φν©αξ1J$8a4498fb-a669-4168-848c-af29a88d8074
+r	java:S106'"+Replace this use of System.out by a logger.(¬υÿΙϊÿÿÿÿ8φν©αξ1J$e7f4fbfc-b1f4-407a-82f7-2de9fb4bcb5d
+m	java:S106("+Replace this use of System.out by a logger.(μΌό8χν©αξ1J$8546563a-d721-479f-a1cc-11212c12cbc9
+l	java:S106)"+Replace this use of System.out by a logger.(ρ›ω8χν©αξ1J$f2ae33e1-8ba2-4018-a6e5-6560f70b82d9
+l	java:S106+"+Replace this use of System.out by a logger.(εΒ‰z8χν©αξ1J$7db9717d-ee83-4c5d-8bf3-8db7e721b701
+r	java:S1060"+Replace this use of System.out by a logger.(ΆΕ¦®ύÿÿÿÿ8ψν©αξ1J$a5c4eb5d-d926-4aa5-a976-1e6c65f0aeb8
+m	java:S1061"+Replace this use of System.out by a logger.(“γΰο8ψν©αξ1J$b6e2f954-50b7-4ffb-adf0-9d004cef3af6
+m	java:S1062"+Replace this use of System.out by a logger.(Π—Νθ8ψν©αξ1J$71979118-db60-4d23-8f17-a59cc27c1c4a
+m	java:S1064"+Replace this use of System.out by a logger.(‰µ“ή8ψν©αξ1J$5e16ab01-3235-4ac4-a0a1-818402a3a73c
+r	java:S106:"+Replace this use of System.out by a logger.(ΥξΣ™ώÿÿÿÿ8ων©αξ1J$4173733e-211d-4c40-9e8e-772b9db313c3
+r	java:S106;"+Replace this use of System.out by a logger.(ΌβΦΖϋÿÿÿÿ8ων©αξ1J$eb3761ae-12c0-4ef3-baeb-44e7b4474143
+r	java:S106<"+Replace this use of System.out by a logger.(¬‘‡Ύύÿÿÿÿ8ων©αξ1J$de4630c1-152a-47a9-9441-46c3f97a5bf3
+m	java:S106>"+Replace this use of System.out by a logger.(‚—Ξ«8ων©αξ1J$6b04a14d-0274-42ee-a58f-fe95d0857a62
