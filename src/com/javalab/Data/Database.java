@@ -1,9 +1,9 @@
-package com.javalab.data;
+package com.javalab.Data;
 
-import com.javalab.domain.Category;
-import com.javalab.domain.Employee;
-import com.javalab.domain.Order;
-import com.javalab.domain.Product;
+import com.javalab.Domain.Category;
+import com.javalab.Domain.Employee;
+import com.javalab.Domain.Order;
+import com.javalab.Domain.Product;
 
 import java.util.ArrayList;
 

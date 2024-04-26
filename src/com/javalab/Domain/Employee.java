@@ -1,4 +1,4 @@
-package com.javalab.domain;
+package com.javalab.Domain;
 
 /**
  * 사원 도메인 클래스

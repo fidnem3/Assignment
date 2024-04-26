@@ -1,16 +1,0 @@
-
-œ
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ëæÛŠ8Ù»»î1J$26150689-7ce8-4656-80ef-0265b5cc21e3
-­
-java:S1319"eThe type of "items" should be an interface such as "List" rather than the implementation "ArrayList".(¦è•Èøÿÿÿÿ8Û»»î1J$3ae05ea3-d6fb-4c85-aaac-c68a90a87734
-¸
-java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(İŞºÄûÿÿÿÿ8Û»»î1J$bf2ef368-2d2c-4047-84cf-c89c5c754487
-­
-java:S1319"eThe type of "items" should be an interface such as "List" rather than the implementation "ArrayList".(İŞºÄûÿÿÿÿ8Û»»î1J$d0171c47-c4d5-4560-9731-52fd7896f7d4
-¨
-java:S1319,"eThe type of "items" should be an interface such as "List" rather than the implementation "ArrayList".(‰¯Ó˜8Û»»î1J$85783368-c8a2-4ed7-bb0a-f7cf71a39031
-r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8å»»î1J$c6b0129c-45f0-43a5-a7d5-cd16811fda05
-m	java:S106"+Replace this use of System.out by a logger.(ïÿ¦…8ç»»î1J$4df776cb-27dd-4997-8555-955e00806901
-m	java:S106/"+Replace this use of System.out by a logger.(ïÿ¦…8é»»î1J$e3d26202-8710-405f-bc74-442c40a795a3
-œ
-java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.( Øøÿÿÿÿ8ë»»î1J$4b8b6236-320f-4697-951e-3f1c743fa5c4

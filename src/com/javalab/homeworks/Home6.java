@@ -1,10 +1,10 @@
 package com.javalab.homeworks;
 
-import com.javalab.data.Database;
-import com.javalab.domain.Category;
-import com.javalab.domain.Employee;
-import com.javalab.domain.Order;
-import com.javalab.domain.Product;
+import com.javalab.Data.Database;
+import com.javalab.Domain.Category;
+import com.javalab.Domain.Employee;
+import com.javalab.Domain.Order;
+import com.javalab.Domain.Product;
 
 import java.util.ArrayList;
 
@@ -83,6 +83,7 @@ public class Home6 {
                 for (Employee employee : employees){
                     if(employee.getEmployeeId() == c3){
                         c4 = employee.getName();
+                        break;
                     }
                 }
                 System.out.println(order.getOrderId() + "\t" + order.getOrderDate() + "\t" +

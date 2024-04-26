@@ -1,4 +1,4 @@
-package com.javalab.domain;
+package com.javalab.Domain;
 
 
 import java.time.LocalDateTime;

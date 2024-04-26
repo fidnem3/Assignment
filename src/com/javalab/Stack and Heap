@@ -1,0 +1,52 @@
+Stack의 경우에느 정적으로 할당된 메모리 영역
+Heap의 경우에는 동적으로 할당된 메모리 영역
+
+public class Main {
+
+    public static void main(String[] args) {
+	int age = 32;
+	String name = "kang";
+        List<String> skills = new ArrayList<>();
+        skills.add("java");
+        skills.add("js");
+        skills.add("c++");
+
+        test(skills);
+
+    }
+
+    public static void test(List<String> list) {
+        String mySkill = list.get(0);
+        list.add("python");
+    }
+}
+여기서 int age = 32; 가 될때 메모리역은은 Stack영역에 들어간다.
+왜? int가 Primitive타입 이기 때문임.
+Stack에서는 Primitive 타입 즉 자료형 데이터값이 할당됨.
+
+String name = "Kang"; 실행이 되면
+String 오브젝으를 가리키는 변수만 Stack에 쌓이고
+String Object 자체는 Heap에 할당됨
+왜? Heap는 모든 Object타입 데이터가 할당됨. (모든객체는 Object 타입을 상속받음)
+
+List<String> skills = new ArratList<>();
+skill 리스트가 ArrayList로 아직 값이 채워지지 않으니
+Skills은 Stack로 List는 Heap으로 할당됨.
+근데 여기서 Add로 값을 할당하면
+skills.add("java");
+skills.add("js");
+skills.add("c++");
+skills 에 3개의 값이 들어갔기 때문에 Heap에 있는 List에 0 1 2 이 할당되고
+0 , 1, 2 순서도로 String " " 이러식으로 Heap영역으로 가지 쳐서 나간다.
+
+tset(skills); 메서드를 실행 시킬건데
+public static void test(List<String> list) {
+	String mySkill = list.get(0);
+	list.add("python");
+} 같이 되어있다.
+여기서 메서드 파라미터인 list는 Heap에 할당되어있는 List를 가르키고
+my Skill은 Heap 영역의 "java" String 을 참조할것이다.
+
+
+
+

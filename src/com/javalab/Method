@@ -1,0 +1,53 @@
+1.메서드 선언
+public static 리턴타입(자료형,void) 메서드명() {
+       메서드 작성
+      return 리턴 데이터;
+}  리턴타입에 void가 들어가면 return받는 데이터가 없음것.
+   자료형을 넣을 경우 마지막에 return이용해 데이터 받기.
+
+2. 메서드 호출
+메서드명(); 을 이용해 호출
+
+3. void 메서드 선언
+public static void 메서드명() 을 사용하여 출력하느 메서드를 만듬.
+public static void HelloWorld()
+	{
+		System.out.println("Hellow World!");
+	}
+public class Method {
+    public static void main(String[] args) {
+    	HelloWorld();		// HellowWorld 메서드 호출
+
+4. void 메서드 (파리미터) 선언
+public static void 메서드명(파라미터) 이용함
+public static void NamePrint(String Name) {
+	 System.out.println(Name); }
+
+public static void main (String[] args) {
+  NamePreint("홍길동")
+
+5. 메소드 오버로딩
+같은 메서드여도 매개변수가 다르거나, 리턴받는 데이터타입이 다른 경우 여러 개를 선언할수있음.(타 개 순)
+public class Method {
+	public static void main(String[] args) {
+		System.out.println("Overloading1 : " + Overloading("홍길동", "20살"));
+		System.out.println("Overloading2 : " + Overloading(10, 20));
+	}
+	// Overloading1 메서드 선언
+	public static String Overloading(String Name, String Age)
+	{
+		return Name + Age;
+	}
+
+	// Overloading2 메서드 선언
+	public static int Overloading(int a, int b)
+	{
+		return a + b;
+	}
+} 위에 처럼 메소드명 같지만 타입이 다르기 때문에 잘 돌아감 같은면 안됨 (타입 개수 순서)!
+
+
+
+
+
+

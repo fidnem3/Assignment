@@ -1,37 +1,37 @@
 
 ²
-java:S1319"jThe type of "categories" should be an interface such as "List" rather than the implementation "ArrayList".(™óêüÿÿÿÿ8÷‡ùåî1J$71a030db-aed4-4f29-a811-71076dcc20cc
+java:S1319"jThe type of "categories" should be an interface such as "List" rather than the implementation "ArrayList".(™óêüÿÿÿÿ8÷‡ùåî1J$50eed47c-59e3-41df-bdd7-ebfe1dac2d35
 «
-java:S1319("hThe type of "products" should be an interface such as "List" rather than the implementation "ArrayList".(é¬«“8÷‡ùåî1J$e994b74a-fffd-4b07-b5fd-dc0552ffe601
+java:S1319("hThe type of "products" should be an interface such as "List" rather than the implementation "ArrayList".(é¬«“8÷‡ùåî1J$bbb918cf-256f-4198-8010-2acd1c1fe0da
 ±
-java:S13191"iThe type of "employees" should be an interface such as "List" rather than the implementation "ArrayList".(øĞèıÿÿÿÿ8÷‡ùåî1J$8941aa91-4800-42d8-962c-c5ba0337ad2c
+java:S13191"iThe type of "employees" should be an interface such as "List" rather than the implementation "ArrayList".(øĞèıÿÿÿÿ8÷‡ùåî1J$a71a4387-d8d1-4920-a7a7-2085acb37e1c
 ©
-java:S1319;"fThe type of "orders" should be an interface such as "List" rather than the implementation "ArrayList".(úÙØ©8÷‡ùåî1J$64b44baf-31a8-4e31-bf3a-52b14839ddf5
+java:S1319;"fThe type of "orders" should be an interface such as "List" rather than the implementation "ArrayList".(úÙØ©8÷‡ùåî1J$0f6dc535-5e6c-4869-b2a6-9d84c6f3c9f1
 ¨
-java:S1319D"fThe type of "orders" should be an interface such as "List" rather than the implementation "ArrayList".(—ÚÂ8÷‡ùåî1J$91faa832-6107-410a-b0d8-b47a251aada8
+java:S1319D"fThe type of "orders" should be an interface such as "List" rather than the implementation "ArrayList".(—ÚÂ8÷‡ùåî1J$fe2bd4bb-ee5b-464d-8e96-9e28b867bab7
 ª
-java:S1319D"hThe type of "products" should be an interface such as "List" rather than the implementation "ArrayList".(—ÚÂ8÷‡ùåî1J$a4d78ff6-941b-4c08-aeb8-8d387203ff52
+java:S1319D"hThe type of "products" should be an interface such as "List" rather than the implementation "ArrayList".(—ÚÂ8÷‡ùåî1J$3aa7ee15-4c1e-4b13-be72-987e66902d6a
 «
-java:S1319D"iThe type of "employees" should be an interface such as "List" rather than the implementation "ArrayList".(—ÚÂ8÷‡ùåî1J$06378707-ed27-469e-86aa-3175152af063
-r	java:S106 "+Replace this use of System.out by a logger.(ü“ûÖøÿÿÿÿ8„ˆùåî1J$ef10072a-80b8-48e9-af01-d0f5cb33cfad
-r	java:S106!"+Replace this use of System.out by a logger.(šÀÉ´ûÿÿÿÿ8…ˆùåî1J$1b7bccb0-b7c2-4560-bd74-95ecd90533ec
-m	java:S106""+Replace this use of System.out by a logger.(Ğ—Íè8…ˆùåî1J$dfe03b6e-ced2-49a9-be18-5160c6cc4474
-r	java:S106$"+Replace this use of System.out by a logger.(÷Û¡Øøÿÿÿÿ8…ˆùåî1J$83603198-46ad-4529-bee8-81fd982e080d
-r	java:S106)"+Replace this use of System.out by a logger.(¬õÿÉúÿÿÿÿ8‡ˆùåî1J$c1fdbb1a-ae42-4f7f-adec-c46b62c237ad
-m	java:S106*"+Replace this use of System.out by a logger.(ì¼üˆ8‡ˆùåî1J$cd738b45-108b-4479-91ca-a59e1619c515
-l	java:S106+"+Replace this use of System.out by a logger.(ñ›ù8‡ˆùåî1J$cfcaf582-56ee-4d19-a2bc-0e2c3fae7f41
-l	java:S106-"+Replace this use of System.out by a logger.(åÂ‰z8ˆˆùåî1J$9dfdcde1-da80-48a1-9c6a-a389bff86d2d
-r	java:S1062"+Replace this use of System.out by a logger.(¢Å¦®ıÿÿÿÿ8‰ˆùåî1J$e46ff9cc-6ca6-4cb6-8fb9-8be99a33b712
-m	java:S1063"+Replace this use of System.out by a logger.(“ãàï8‰ˆùåî1J$11dca92a-272e-4930-b2c6-b5f6d50555a7
-m	java:S1064"+Replace this use of System.out by a logger.(Ğ—Íè8‰ˆùåî1J$67d396b4-f110-4391-9d2c-f94487fb86ff
-m	java:S1066"+Replace this use of System.out by a logger.(‰µ“Ş8Šˆùåî1J$346a7e40-9634-4885-85d6-edbb7fd0b5f9
-r	java:S106<"+Replace this use of System.out by a logger.(ÕîÓ™şÿÿÿÿ8‹ˆùåî1J$ef9eda51-91ec-4ef1-a919-fa2f6869ceb5
-r	java:S106="+Replace this use of System.out by a logger.(¼âÖÆûÿÿÿÿ8‹ˆùåî1J$27a5a2ea-9bb1-48c3-bdd1-24831dc9a707
-r	java:S106>"+Replace this use of System.out by a logger.(¬‘‡¾ıÿÿÿÿ8‹ˆùåî1J$e0fb0956-77ae-4da7-8456-d840242646b5
-m	java:S106@"+Replace this use of System.out by a logger.(‚—Î«8‹ˆùåî1J$f6fd858c-813d-488b-b475-c9e51b1b78b5
+java:S1319D"iThe type of "employees" should be an interface such as "List" rather than the implementation "ArrayList".(—ÚÂ8÷‡ùåî1J$b6a1db16-ec22-4802-a90e-752d279e1650
+r	java:S106 "+Replace this use of System.out by a logger.(ü“ûÖøÿÿÿÿ8„ˆùåî1J$80f17db0-75bf-4190-a9e1-7a56c11cd417
+r	java:S106!"+Replace this use of System.out by a logger.(šÀÉ´ûÿÿÿÿ8…ˆùåî1J$e7d92323-80e1-4246-a487-4df9c763e3f2
+m	java:S106""+Replace this use of System.out by a logger.(Ğ—Íè8…ˆùåî1J$fb9f5233-3569-49d0-8aa2-3a382e3e74ba
+r	java:S106$"+Replace this use of System.out by a logger.(÷Û¡Øøÿÿÿÿ8…ˆùåî1J$4fbb9853-d3b4-47bc-af34-19627862354d
+r	java:S106)"+Replace this use of System.out by a logger.(¬õÿÉúÿÿÿÿ8‡ˆùåî1J$adad2838-8379-4b61-abf1-878b1e335f5d
+m	java:S106*"+Replace this use of System.out by a logger.(ì¼üˆ8‡ˆùåî1J$68775317-ebe3-4e40-aa09-80a04e78bbe9
+l	java:S106+"+Replace this use of System.out by a logger.(ñ›ù8‡ˆùåî1J$8b391843-641c-4437-8faa-8a66a965ea39
+l	java:S106-"+Replace this use of System.out by a logger.(åÂ‰z8ˆˆùåî1J$9d65b758-999d-4e6d-a426-6440116e1452
+r	java:S1062"+Replace this use of System.out by a logger.(¢Å¦®ıÿÿÿÿ8‰ˆùåî1J$a1465ad9-b307-448a-b0c6-5adf8499218e
+m	java:S1063"+Replace this use of System.out by a logger.(“ãàï8‰ˆùåî1J$6ba873ea-280b-44b7-903f-28c1233cffc5
+m	java:S1064"+Replace this use of System.out by a logger.(Ğ—Íè8‰ˆùåî1J$61a067e0-0283-4fb9-b34c-1ec0265b11af
+m	java:S1066"+Replace this use of System.out by a logger.(‰µ“Ş8Šˆùåî1J$6c0b71be-f20d-4192-808d-db0568f05197
+r	java:S106<"+Replace this use of System.out by a logger.(ÕîÓ™şÿÿÿÿ8‹ˆùåî1J$321ccd26-65f9-4266-84d2-ebd5d3668471
+r	java:S106="+Replace this use of System.out by a logger.(¼âÖÆûÿÿÿÿ8‹ˆùåî1J$1dd33f6e-430c-4b21-938b-62686e93d2e1
+r	java:S106>"+Replace this use of System.out by a logger.(¬‘‡¾ıÿÿÿÿ8‹ˆùåî1J$fb7a6ba2-6ed6-4e9a-ae60-81ec1ffee34d
+m	java:S106@"+Replace this use of System.out by a logger.(‚—Î«8‹ˆùåî1J$b28c6505-9ef3-4594-84d5-0df4234c1a2b
 ”
-java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—ÚÂ8ˆùåî1J$5b1a6ea6-116f-45a0-aecd-c26994247214
-r	java:S106E"+Replace this use of System.out by a logger.(ÕîÓ™şÿÿÿÿ8ˆùåî1J$e0eba4e6-c133-46dd-b218-d47d2a51cc3e
-m	java:S106F"+Replace this use of System.out by a logger.(»İ˜ÿ8ˆùåî1J$3385281f-9f92-4b88-adc9-593b8f8d3cd2
-r	java:S106G"+Replace this use of System.out by a logger.(¬‘‡¾ıÿÿÿÿ8ˆùåî1J$63b379ea-8ed4-4aec-a117-b209b2a24890
-m	java:S106X"+Replace this use of System.out by a logger.(‚—Î«8ˆùåî1J$de63843e-d178-43a4-a185-2ffe1b9009f8
+java:S3776D"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(—ÚÂ8ˆùåî1J$3f6a86b4-f64d-4648-8cc3-068690019a4c
+r	java:S106E"+Replace this use of System.out by a logger.(ÕîÓ™şÿÿÿÿ8ˆùåî1J$ca41fa68-41d5-4e35-b1a4-440fbd2ca9b1
+m	java:S106F"+Replace this use of System.out by a logger.(»İ˜ÿ8ˆùåî1J$cb1b0dbb-c0dc-46ea-b977-fe617329b267
+r	java:S106G"+Replace this use of System.out by a logger.(¬‘‡¾ıÿÿÿÿ8ˆùåî1J$fab977cc-1b92-478f-b91c-fc35172158fb
+m	java:S106Y"+Replace this use of System.out by a logger.(‚—Î«8ˆùåî1J$4a18aed1-45a4-450e-a986-8f9443822f94
